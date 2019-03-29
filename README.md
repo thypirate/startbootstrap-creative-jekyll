@@ -1,14 +1,14 @@
-# Start Bootstrap Creative Theme adapted for Jekyll.
+# Start Bootstrap Creative Theme adapted for Jekyll
 
 [Creative](https://startbootstrap.com/themes/creative/) is a theme for [Jekyll](https://jekyllrb.com) adapted from the [Bootstrap](https://getbootstrap.com/) based theme with the same name from the good folks at [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
-![Creative](https://thypirate.github.io/startbootstrap-creative.jekyll/screenshot.png)
+![Creative](https://thypirate.github.io/startbootstrap-creative.jekyll/screenshot.png)(https://thypirate.github.io/startbootstrap-creative-jekyll/)
 
 ## Download and Installing
 You can either:
-* Clone the repo using the following command ```git clone https://github.com/thypirate/startbootstrap-creative-jekyll.git```
-* Download on Github
+* Clone the repo using the following command ```git clone https://github.com/thypirate/startbootstrap-creative-jekyll.git```.
+* Download on Github.
 
 ## Build
 While in the root of you site, there are two commands you can use to build:
