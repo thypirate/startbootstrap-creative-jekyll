@@ -3,7 +3,7 @@
 [Creative](https://startbootstrap.com/themes/creative/) is a theme for [Jekyll](https://jekyllrb.com) adapted from the [Bootstrap](https://getbootstrap.com/) based theme with the same name from the good folks at [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
-![Creative](https://thypirate.github.io/startbootstrap-creative.jekyll/screenshot.png)(https://thypirate.github.io/startbootstrap-creative-jekyll/)
+![Creative](https://github.com/thypirate/startbootstrap-creative-jekyll/blob/master/screenshot.png)
 
 ## Download and Installing
 You can either:
